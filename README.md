@@ -40,3 +40,10 @@ Compiling and then running a compiled program. You must specify the file name an
 ```
 ./get_text_from_file.exe name_your_file num_read_lines
 ```
+# copy file
+
+Compiling and then running a compiled program. Enter the copied file and the new one
+
+```
+./copy_file.exe name_copied_file name_new_file
+```
