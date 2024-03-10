@@ -66,4 +66,11 @@ Compiling and then running a compiled program. Enter the copied file and the new
 ./two_child_processes.exe
 ```
 
+# find for identical files
+
+N - max number of concurrent processes
+
+```
+./find_for_identical_files.exe path1 path2 N
+```
 
