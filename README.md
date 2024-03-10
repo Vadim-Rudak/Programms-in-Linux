@@ -54,5 +54,10 @@ Compiling and then running a compiled program. Enter the copied file and the new
 ./see_all_files_in_catalogs.exe your_path num_min_size num_max_size result_file.txt
 ```
 
+# see all files in catalog with find by size and date
+
+```
+./see_all_files_with_params.exe your_path name_file num_min_size num_max_size 01/01/2024 10/02/2024
+```
 
 
