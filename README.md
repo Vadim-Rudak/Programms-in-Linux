@@ -47,3 +47,12 @@ Compiling and then running a compiled program. Enter the copied file and the new
 ```
 ./copy_file.exe name_copied_file name_new_file
 ```
+
+# see all files in catalog
+
+```
+./see_all_files_in_catalogs.exe your_path num_min_size num_max_size result_file.txt
+```
+
+
+
