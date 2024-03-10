@@ -74,3 +74,8 @@ N - max number of concurrent processes
 ./find_for_identical_files.exe path1 path2 N
 ```
 
+# parent and child processes with info
+
+```
+./parent_and_child_processes.exe
+```
