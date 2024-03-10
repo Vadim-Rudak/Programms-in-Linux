@@ -60,4 +60,10 @@ Compiling and then running a compiled program. Enter the copied file and the new
 ./see_all_files_with_params.exe your_path name_file num_min_size num_max_size 01/01/2024 10/02/2024
 ```
 
+# two child processes and info
+
+```
+./two_child_processes.exe
+```
+
 
