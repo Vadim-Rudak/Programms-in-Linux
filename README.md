@@ -79,3 +79,14 @@ N - max number of concurrent processes
 ```
 ./parent_and_child_processes.exe
 ```
+
+# process with Tailor
+
+A program for finding an array of K consecutive values ​​of the function y[i]=sin(2*PI*i/N) ( i=0,1,2…K-1) using the Taylor series. The user specifies the values ​​of K, N and the number n of terms of the Taylor series. A separate thread is launched to calculate each term of the Taylor series. Each thread displays its id and the calculated value of the series. The main process waits for all threads to complete and sums all terms of the Taylor series. He writes the resulting value y[i] to the result file.
+
+Edit InPath and OuPath
+
+```
+./process_with_Tailor.exe
+```
+
